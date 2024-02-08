@@ -1,4 +1,4 @@
---INTRODUCTION--
+**INTRODUCTION**
 
 Users can compress files and folders to any sort of compressed file (.zip,.tar,.tgz, etc.) with this Python script file. After asking the user to choose the folder to compress, a list of the different compressed file types is shown. The application uses the specified file type to compress the chosen folder after the user selects the desired compressed file type from the list. The compressed file will be stored as "name_of_the_folder_date_month_year.zip" if the user chooses the.zip extension.
 
@@ -6,9 +6,9 @@ Users can compress files and folders to any sort of compressed file (.zip,.tar,.
 
 
 
---INSTRUCTION--
+**INSTRUCTION**
 
-*How to run
+**How to run**
 #Run the Python script by Run the file by executing the following command in your terminal or command prompt: compress-file.py
 
 
