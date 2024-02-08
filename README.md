@@ -1,8 +1,8 @@
 Group Member | Email
-*Vaste Uwase |v.uwase@alustudent.com
-*Liliane Kayitesi |l.kayitesi@alustudent.com
-*Betty Mukankusi |b.mukankusi@alustudent.com
-*Diane INGABIRE | d.ingabire1@alustudent.com
+Vaste Uwase |v.uwase@alustudent.com
+Liliane Kayitesi |l.kayitesi@alustudent.com
+Betty Mukankusi |b.mukankusi@alustudent.com
+Diane INGABIRE | d.ingabire1@alustudent.com
 
 Instructions:
 
