@@ -18,6 +18,7 @@ The program will compress the folder and display a message indicating success or
 Ensure you have necessary permissions to create files in the directory where you run the script.
 
 Group Member | Email
+|------------|------|
 |Vaste Uwase | v.uwase@alustudent.com|
 |Liliane Kayitesi | l.kayitesi@alustudent.com|
 |Betty Mukankusi | b.mukankusi@alustudent.com|
