@@ -31,7 +31,7 @@ def compress_folder(folder_path, compress_type):
 
 def main():
     folder_path = input("Enter the folder path to compress: ")
-    compress_types = ["zip", "tar", "tgz"]
+    compress_types = ["zip", "tar", "tgz", "rar", "mint"]
     
     print("Available compressed file types:")
     for idx, ctype in enumerate(compress_types, start=1):
